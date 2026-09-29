@@ -1,5 +1,5 @@
 # yasmin-naouar
-# 👋 Bonjour, je suis Yasmine Naouar
+#                     👋 Bonjour, je suis Yasmine Naouar
 
 ###  Développeuse Full Stack | Étudiante en Informatique | À la recherche d'un stage PFE
 
@@ -45,11 +45,15 @@ Actuellement, je suis à la recherche d'un **stage PFE** qui me permettra de met
 
 * MySQL
 * SQL
-
+ ### Outils & environnement
+Git / GitHub
+VS Code
+Laragon
+postman
 ###  Développement mobile
 
 * Flutter
-* 
+ 
 ###  Big Data & IA
 
 Apache Hadoop · Apache Spark · Apache Kafka · Machine Learning
@@ -64,9 +68,7 @@ Apache Hadoop · Apache Spark · Apache Kafka · Machine Learning
 * Adobe Photoshop
 * Adobe Illustrator
 
----
-
-##  Projets principaux
+### Projets principaux
 
 ###  StickLab
 
@@ -74,21 +76,18 @@ Application web destinée à la **création et à la gestion de labels et sticke
 
 **Technologies :** React.js · Node.js · MySQL
 
----
+##  Domaines qui m'intéressent
 
-### 🌐 Projets Full Stack
+Je souhaite continuer à développer mes compétences et approfondir mes connaissances dans plusieurs domaines :
 
-Différents projets académiques et personnels réalisés afin de développer mes compétences dans :
-
-* Développement frontend
-* Développement backend
-* API REST
-* Gestion des bases de données
-* Authentification
-* Opérations CRUD
-* Architecture d'applications web
-
----
+*  **Développement Full Stack**
+* **Backend & API REST**
+*  **Développement Mobile**
+*  **Big Data**
+*  **Intelligence Artificielle & Machine Learning**
+*  **Bases de données & SQL**
+*  **Cloud Computing**
+* **3D & Réalité Augmentée**
 
 ##  Actuellement en apprentissage
 
@@ -98,15 +97,23 @@ Différents projets académiques et personnels réalisés afin de développer me
 * Développement d'API REST
 * Conception et gestion des bases de données
 * Git & GitHub
+*  Développement Mobile 
+* Game Development 
+*  3D & Modélisation 
 * Concepts de Big Data et d'Intelligence Artificielle
+##  Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yasmin-naouar&show_icons=true&theme=default)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-naouar&layout=compact&theme=default)
 
 
-## 🤝 Me contacter
+##  Me contacter
 
 Je suis ouverte aux **opportunités de PFE, stages, collaborations et projets de développement**.
 
-* 💼 LinkedIn : [yasmine-naouar](https://www.linkedin.com/in/yasmine-naouar-086159336)
-* 📧 Email : naouaryasmine03@gmail.com
-* 🐙 GitHub : [yasmin-naouar](github.com/yasmin-naouar/yassmine-naouar)
+*  LinkedIn : [yasmine-naouar](https://www.linkedin.com/in/yasmine-naouar-086159336)
+*  Email : naouaryasmine03@gmail.com
+*  GitHub : [yasmin-naouar](github.com/yasmin-naouar/yassmine-naouar)
 
- Merci de visiter mon profil GitHub !
+                    Merci de visiter mon profil GitHub !
