@@ -101,12 +101,6 @@ Je souhaite continuer à développer mes compétences et approfondir mes connais
 * Game Development 
 *  3D & Modélisation 
 * Concepts de Big Data et d'Intelligence Artificielle
-##  Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yasmin-naouar&show_icons=true&theme=default)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-naouar&layout=compact&theme=default)
-
 
 ##  Me contacter
 
